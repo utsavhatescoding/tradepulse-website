@@ -1,0 +1,18 @@
+# TradePulse Nepal public website
+
+Premium static SEO site for **https://tradepulsenepal.com**.
+
+## Publish
+1. Upload all files in this folder to the root of the `tradepulse-website` GitHub repository.
+2. GitHub → Settings → Pages → Deploy from branch → `main` → `/ (root)`.
+3. Custom domain: `tradepulsenepal.com`.
+4. Configure DNS in Cloudflare.
+5. Enable Enforce HTTPS when available.
+6. Add the domain to Google Search Console and submit `https://tradepulsenepal.com/sitemap.xml`.
+
+## Updating monthly data
+The public site highlights the latest Customs release. When a new month is available, update the headline numbers/product tables and sitemap modification cadence as needed. The interactive Streamlit dashboard remains the source for historical release switching.
+
+## Architecture
+- `tradepulsenepal.com` → public SEO/content layer
+- `https://tradepulsenepal.streamlit.app/` → interactive dashboard
