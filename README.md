@@ -16,3 +16,15 @@ The public site highlights the latest Customs release. When a new month is avail
 ## Architecture
 - `tradepulsenepal.com` → public SEO/content layer
 - `https://tradepulsenepal.streamlit.app/` → interactive dashboard
+
+
+## SEO V2 (2026-09-05)
+- Added a dedicated `nepal-trade-data-2083-84.html` current fiscal-year report.
+- Strengthened unique page titles and meta descriptions around Nepal trade search intent.
+- Added self-referencing canonicals, Open Graph/Twitter social metadata and a 1200x630 social preview.
+- Added Organization, WebSite, WebPage, Breadcrumb, Article and Dataset structured data where relevant.
+- Added contextual internal links to the current FY report across the core data pages.
+- Updated sitemap with the new report and `lastmod` values.
+- Set the custom 404 page to `noindex,follow`.
+
+After deployment, submit the updated sitemap in Google Search Console. You only need to manually request indexing for the new FY report; Google can discover the other updated URLs through the sitemap and internal links.
