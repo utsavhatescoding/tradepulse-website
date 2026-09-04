@@ -28,3 +28,7 @@ The public site highlights the latest Customs release. When a new month is avail
 - Set the custom 404 page to `noindex,follow`.
 
 After deployment, submit the updated sitemap in Google Search Console. You only need to manually request indexing for the new FY report; Google can discover the other updated URLs through the sitemap and internal links.
+
+
+## Intelligence report
+- `shrawan-2083-84-trade-report.html` — first monthly analytical report, generated from the official Shrawan FY 2083/84 workbook.
