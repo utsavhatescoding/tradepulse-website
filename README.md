@@ -32,3 +32,13 @@ After deployment, submit the updated sitemap in Google Search Console. You only 
 
 ## Intelligence report
 - `shrawan-2083-84-trade-report.html` — first monthly analytical report, generated from the official Shrawan FY 2083/84 workbook.
+
+
+## SEO V3 — Data Library
+- Added `nepal-trade-data-download.html`
+- Added `nepal-export-data.html`
+- Added `nepal-import-data.html`
+- Added eight processed CSV datasets in `/data/` plus an all-in-one ZIP
+- Added Dataset/DataDownload structured data for Google Dataset Search discovery
+- Added descriptive internal links and homepage data-download entry points
+- Updated sitemap and exact workbook-derived export YoY growth to 61.72%
