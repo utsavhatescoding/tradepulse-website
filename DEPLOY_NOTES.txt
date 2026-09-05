@@ -1,36 +1,15 @@
-TradePulse Nepal — SEO V3 / Data Library
-Build date: 2026-09-05
+TradePulse Nepal — SEO V4 Data Library
 
-WHAT IS NEW
-- nepal-trade-data-download.html
-- nepal-export-data.html
-- nepal-import-data.html
-- /data/ with 8 processed CSV datasets
-- all-in-one Shrawan FY 2083/84 data ZIP
-- Dataset + DataDownload structured data for dataset discovery
-- descriptive internal links from homepage and existing pages
-- updated sitemap.xml
-- navigation/footer links to Downloads
-- exact workbook-derived export YoY growth standardized to 61.72%
-- robust homepage YoY bar plot height retained in styles.css
+Replace the current GitHub Pages files with this package. Keep the data/ folder.
 
-DATA QA
-- Import product rows sum to official imports total: Rs 187,443,622.161632 thousand
-- Export product rows sum to official exports total: Rs 38,704,145.615970 thousand
-- Country rows reconcile to the same import/export totals
-- Customs-office rows reconcile to the same import/export totals
-- Source total rows are excluded from processed CSV tables
-- HS codes are retained as text so leading zeros are preserved
+Changes in this build:
+- Professional 2-column dataset cards
+- Preview-first-5-rows panel for all 8 datasets
+- CSV and Excel (.xlsx) download options for every dataset
+- Excel workbooks include Data + Notes sheets
+- Combined CSV + Excel download pack
+- Cache-busted CSS/JS links to prevent stale styling
+- Updated Dataset structured data with CSV and XLSX distributions
+- Updated export/import landing pages with previews and dual-format downloads
 
-DEPLOY
-Upload/replace the CONTENTS of this folder at the root of the GitHub Pages repository.
-Keep the /data/ directory intact.
-
-AFTER DEPLOY
-1. Open https://tradepulsenepal.com/nepal-trade-data-download.html
-2. Test one CSV and the ZIP download.
-3. In Search Console, inspect and request indexing once for:
-   - https://tradepulsenepal.com/nepal-trade-data-download.html
-   - https://tradepulsenepal.com/nepal-export-data.html
-   - https://tradepulsenepal.com/nepal-import-data.html
-4. The existing sitemap URL remains https://tradepulsenepal.com/sitemap.xml
+After deployment, hard refresh once and test all download buttons.
