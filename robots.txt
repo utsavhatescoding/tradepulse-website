@@ -1,3 +1,12 @@
+# TradePulse Nepal crawler policy
+# Public trade-data pages are intentionally discoverable by search and AI search systems.
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
 User-agent: *
 Allow: /
 

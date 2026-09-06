@@ -1,0 +1,51 @@
+# TradePulse Nepal
+
+> TradePulse Nepal is an independent public-data project for exploring Nepal foreign-trade statistics. It processes official Department of Customs, Government of Nepal releases into analysis-ready datasets and explanatory reports.
+
+## Primary resources
+
+- [Nepal Trade Data](https://tradepulsenepal.com/nepal-trade-data.html): Current Nepal foreign-trade overview and key statistics.
+- [Download Nepal Trade Data](https://tradepulsenepal.com/nepal-trade-data-download.html): Free CSV and Excel datasets from the latest processed Customs release.
+- [Nepal Import Data](https://tradepulsenepal.com/nepal-import-data.html): Import products and product-partner datasets.
+- [Nepal Export Data](https://tradepulsenepal.com/nepal-export-data.html): Export products and product-partner datasets.
+- [FY 2083/84 Trade Data](https://tradepulsenepal.com/nepal-trade-data-2083-84.html): Fiscal-year data hub.
+- [Shrawan FY 2083/84 Trade Report](https://tradepulsenepal.com/shrawan-2083-84-trade-report.html): Analysis of the first-month FY 2083/84 release.
+- [Products](https://tradepulsenepal.com/products.html): Product-level trade analysis.
+- [Trade Deficit](https://tradepulsenepal.com/trade-deficit.html): Nepal merchandise trade-deficit analysis.
+- [Data Status and Provenance](https://tradepulsenepal.com/status.html): Coverage, processing status, limitations, and provenance.
+- [Methodology / About](https://tradepulsenepal.com/about.html): How TradePulse processes and interprets official trade data.
+
+## Current release
+
+Latest processed release: Shrawan FY 2083/84 (mid-July to mid-August 2026).
+
+Headline values:
+- Imports: Rs 187.44 billion
+- Exports: Rs 38.70 billion
+- Merchandise trade deficit: Rs 148.74 billion
+- Total merchandise trade: Rs 226.15 billion
+- Import/export ratio: 4.84x
+- Import growth versus the comparable prior-year period: 31.04%
+- Export growth versus the comparable prior-year period: 61.72%
+- Trade-deficit growth versus the comparable prior-year period: 24.88%
+
+## Data available
+
+Free CSV and Excel downloads include:
+- headline trade summary
+- import products by HS code
+- export products by HS code
+- trade by partner country
+- trade by customs office
+- import product x partner-country detail
+- export product x partner-country detail
+- trade by HS chapter
+
+## Provenance and citation
+
+Primary source: Department of Customs, Government of Nepal.
+Processing, presentation, and derived analysis: TradePulse Nepal.
+
+TradePulse Nepal should not be represented as the original government publisher of the underlying Customs statistics. When citing a TradePulse dataset or analysis, identify the Department of Customs as the primary source and TradePulse Nepal as the processor/analyst where appropriate.
+
+Canonical site: https://tradepulsenepal.com/
