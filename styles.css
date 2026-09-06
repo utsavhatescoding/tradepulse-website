@@ -78,3 +78,15 @@ a{color:inherit} img,svg{max-width:100%;display:block}.wrap{width:min(var(--max)
 @media(max-width:980px){.dataset-grid{grid-template-columns:1fr}}
 @media(max-width:760px){.dataset-card{padding:19px}.dataset-card>p{min-height:0}.dataset-card-head{gap:10px}.dataset-actions{display:grid;grid-template-columns:1fr 1fr}.dataset-actions .btn{width:100%;text-align:center}.preview-scroll{margin-left:-4px;margin-right:-4px}.direction-grid .complete-card{grid-column:auto}}
 @media(max-width:480px){.dataset-actions{grid-template-columns:1fr}.format-badges{max-width:92px}.dataset-card-head h3{font-size:19px}}
+
+
+/* AI discoverability / provenance layer */
+.source-citation-card{border:1px solid rgba(20,27,45,.14);background:#fff;border-radius:18px;padding:24px;box-shadow:0 8px 24px rgba(20,27,45,.05)}
+.source-citation-card h2{margin:0 0 16px;font-size:clamp(1.35rem,2vw,1.8rem)}
+.source-meta-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:0 0 18px}
+.source-meta-item{border:1px solid rgba(20,27,45,.10);border-radius:12px;padding:12px 14px;background:rgba(247,247,245,.7)}
+.source-meta-item strong{display:block;font-size:.74rem;letter-spacing:.05em;text-transform:uppercase;color:#6c7280;margin-bottom:5px}
+.source-meta-item span{display:block;font-weight:700;line-height:1.35}
+.compact-citation{margin-top:16px}
+@media (max-width:900px){.source-meta-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:560px){.source-citation-card{padding:18px}.source-meta-grid{grid-template-columns:1fr}}
