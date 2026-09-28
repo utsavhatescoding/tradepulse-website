@@ -1,9 +1,9 @@
 {
-  "name": "TradePulse Nepal — Shrawan FY 2083/84 processed trade datasets",
-  "period": "Shrawan FY 2083/84",
-  "coverage": "Mid July 2026 to Mid August 2026",
+  "name": "TradePulse Nepal — Bhadra FY 2083/84 processed trade datasets",
+  "period": "Bhadra FY 2083/84 (cumulative through first two months)",
+  "coverage": "Mid July 2026 to Mid September 2026",
   "source": "https://customs.gov.np/category/summary-of-business-revenue-2083-084/?page=1",
-  "generated": "2026-09-05",
+  "generated": "2026-09-28",
   "formats": [
     "CSV",
     "XLSX"
@@ -12,115 +12,123 @@
     {
       "dataset": "Trade summary",
       "rows": 7,
+      "description": "Headline imports, exports, trade deficit, total trade, import/export ratio and trade shares.",
       "csv": {
-        "name": "nepal-trade-summary-shrawan-fy2083-84.csv",
-        "bytes": 557,
-        "sha256": "02c7777b679b14c4265ac64e55a733deb6cbf218b518717821ea0080a29f8d0d"
+        "name": "nepal-trade-summary-bhadra-fy2083-84.csv",
+        "bytes": 567,
+        "sha256": "8b8bb00c0da1fc54b5c9e96fc164941c01d11dff10fbe902b25b6e522629c278"
       },
       "xlsx": {
-        "name": "nepal-trade-summary-shrawan-fy2083-84.xlsx",
-        "bytes": 5056,
-        "sha256": "0f50dbe8ad6bec44d28c6d91d06d0a24cebdacf4fac08c2057aa4bfc56d31d7e"
+        "name": "nepal-trade-summary-bhadra-fy2083-84.xlsx",
+        "bytes": 4975,
+        "sha256": "bbc6586b3456fe6e9d374ddc7660ae6f7fb947c0ec8d82bbc4fd62737d98b9cf"
       }
     },
     {
       "dataset": "Import products",
-      "rows": 4014,
+      "rows": 4487,
+      "description": "HS-code products with unit, quantity, import value and import revenue.",
       "csv": {
-        "name": "nepal-import-products-shrawan-fy2083-84.csv",
-        "bytes": 408169,
-        "sha256": "7586ca976e6b0d2a665c164c09c79bab854509a6fcecdbf080a91358b97bc6d3"
+        "name": "nepal-import-products-bhadra-fy2083-84.csv",
+        "bytes": 466269,
+        "sha256": "feb9197351a7482dcea3ab193f5ec1215d1557444f774517d97d0125c487e064"
       },
       "xlsx": {
-        "name": "nepal-import-products-shrawan-fy2083-84.xlsx",
-        "bytes": 284270,
-        "sha256": "5b7e9c290c141a52495f52aba910ee2dfc70206360e4ce4aaccf8ed173af5e7d"
+        "name": "nepal-import-products-bhadra-fy2083-84.xlsx",
+        "bytes": 313229,
+        "sha256": "e187f0825428d32824f584b80cce13c617108edeae48b25a28136f663de15fae"
       }
     },
     {
       "dataset": "Export products",
-      "rows": 490,
+      "rows": 614,
+      "description": "HS-code products with unit, quantity and export value.",
       "csv": {
-        "name": "nepal-export-products-shrawan-fy2083-84.csv",
-        "bytes": 45887,
-        "sha256": "77607c25661f687d4c27a5b81628138c0d5b1661c1564fe53ef6d7c602c7e2ba"
+        "name": "nepal-export-products-bhadra-fy2083-84.csv",
+        "bytes": 57535,
+        "sha256": "e1f0448852da79a56677059dbc11399eef7721110890a0511cbda6942c314251"
       },
       "xlsx": {
-        "name": "nepal-export-products-shrawan-fy2083-84.xlsx",
-        "bytes": 36599,
-        "sha256": "94d5a9e1a5684a01bfcbf6a5242156efc3a0c664de851abc37a597062bc7734e"
+        "name": "nepal-export-products-bhadra-fy2083-84.xlsx",
+        "bytes": 43241,
+        "sha256": "103030bb6e1bee984a624c1f13110397676de8c192155e03f5dd9abcd127d9d9"
       }
     },
     {
       "dataset": "Trade by country",
-      "rows": 107,
+      "rows": 126,
+      "description": "Imports, exports and trade balance by partner country.",
       "csv": {
-        "name": "nepal-trade-by-country-shrawan-fy2083-84.csv",
-        "bytes": 8136,
-        "sha256": "476997fed46c3a9dbbd00a6390ff70f1551fbeada6d516ab7300e2a3b54b912a"
+        "name": "nepal-trade-by-country-bhadra-fy2083-84.csv",
+        "bytes": 9661,
+        "sha256": "5f6b82de7d86af4ad0a9b5861457d738da4d451a7bfc2a1a4f1dc907406d61c7"
       },
       "xlsx": {
-        "name": "nepal-trade-by-country-shrawan-fy2083-84.xlsx",
-        "bytes": 12340,
-        "sha256": "eeac3f8001235ebd1058db1764cbdea9c7f251156dc025335eb31adc685987c0"
+        "name": "nepal-trade-by-country-bhadra-fy2083-84.xlsx",
+        "bytes": 13183,
+        "sha256": "fbf90dd590e355422f0e2d9bfbd39ad15ee9b4d5709716d62fe57cdd3a4a7ef4"
       }
     },
     {
       "dataset": "Trade by customs office",
-      "rows": 28,
+      "rows": 27,
+      "description": "Imports, exports and national trade shares by customs office.",
       "csv": {
-        "name": "nepal-trade-by-customs-office-shrawan-fy2083-84.csv",
-        "bytes": 1937,
-        "sha256": "656e43c0ef34a4fa963de987276a41c6e4bfb216e2a678599ec8751703752522"
+        "name": "nepal-trade-by-customs-office-bhadra-fy2083-84.csv",
+        "bytes": 1998,
+        "sha256": "c77e6c88d4cd4d522ccf391d206a2732df6fba60d32810364ff904a35a26530e"
       },
       "xlsx": {
-        "name": "nepal-trade-by-customs-office-shrawan-fy2083-84.xlsx",
-        "bytes": 6674,
-        "sha256": "ce5c81439bcf178a90c6d3d5fbd452f7b5ccf650f0e6bc0911d800db6b04a154"
+        "name": "nepal-trade-by-customs-office-bhadra-fy2083-84.xlsx",
+        "bytes": 6386,
+        "sha256": "a8b949407de4f4abb9e31c2f8ae74d0d826177fc9963ae2a770c34bf17b016a6"
       }
     },
     {
       "dataset": "Import products × partners",
-      "rows": 11678,
+      "rows": 15844,
+      "description": "Import products by HS code and partner country.",
       "csv": {
-        "name": "nepal-import-product-partners-shrawan-fy2083-84.csv",
-        "bytes": 1241675,
-        "sha256": "d2a3ff452bedd302c27377b559556bb986d469ab83067183ced55e6ffe448a32"
+        "name": "nepal-import-product-partners-bhadra-fy2083-84.csv",
+        "bytes": 1708330,
+        "sha256": "e78e75036cb93a0448bf1c13e8a7a73ffa49b594dab2f36edc2dcb5e49adfb60"
       },
       "xlsx": {
-        "name": "nepal-import-product-partners-shrawan-fy2083-84.xlsx",
-        "bytes": 671375,
-        "sha256": "175782aa5a21d93dc83ba9979d8965f36650c3d548cb6a7fd812290c2b5c9f81"
+        "name": "nepal-import-product-partners-bhadra-fy2083-84.xlsx",
+        "bytes": 862580,
+        "sha256": "935b7202f782405b1654c166ca7e2fbcbcb8fd75751a95964674930debd1cf60"
       }
     },
     {
       "dataset": "Export products × partners",
-      "rows": 1483,
+      "rows": 2059,
+      "description": "Export products by HS code and partner country.",
       "csv": {
-        "name": "nepal-export-product-partners-shrawan-fy2083-84.csv",
-        "bytes": 152711,
-        "sha256": "64c50ff82361209c33754cf4db85fe89d67ea11df0a7e8c27a9885382e992f56"
+        "name": "nepal-export-product-partners-bhadra-fy2083-84.csv",
+        "bytes": 213615,
+        "sha256": "53998fa057b0605c53f00dee6d295b6f5b53952789687b02c1abb9a2a353f2d9"
       },
       "xlsx": {
-        "name": "nepal-export-product-partners-shrawan-fy2083-84.xlsx",
-        "bytes": 81377,
-        "sha256": "f75db5e1519dd067648aa133f23f400a13d14107482386cb43439fe515103f9e"
+        "name": "nepal-export-product-partners-bhadra-fy2083-84.xlsx",
+        "bytes": 106317,
+        "sha256": "7d88c7e518eb4ce0c13ee2b0948d3d9428e3412794a7e2f7d06cd1c19b57b487"
       }
     },
     {
       "dataset": "Trade by HS chapter",
       "rows": 96,
+      "description": "Imports, exports, trade balance and import revenue by HS chapter.",
       "csv": {
-        "name": "nepal-trade-by-hs-chapter-shrawan-fy2083-84.csv",
-        "bytes": 14028,
-        "sha256": "39e09df15a20959d3d260fd2f94860cb3553010f842bba2e6d7c80c391490810"
+        "name": "nepal-trade-by-hs-chapter-bhadra-fy2083-84.csv",
+        "bytes": 14285,
+        "sha256": "bf2ba296351859c120dae393be33cc73cee36be9fa84ba504d260068745a7794"
       },
       "xlsx": {
-        "name": "nepal-trade-by-hs-chapter-shrawan-fy2083-84.xlsx",
-        "bytes": 15212,
-        "sha256": "28890cfd9de95bfdf5ca54fd7ed9399f6b89c592bd0be78dc83cf7a917403117"
+        "name": "nepal-trade-by-hs-chapter-bhadra-fy2083-84.xlsx",
+        "bytes": 14969,
+        "sha256": "eb0a2b7f14645e6900eab76aee630f2cd37a15f5e5f700f61aa877eff75d2245"
       }
     }
   ],
-  "complete_pack": "nepal-trade-data-shrawan-fy2083-84-all-formats.zip"
+  "complete_pack": "nepal-trade-data-bhadra-fy2083-84-all-formats.zip"
 }

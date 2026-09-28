@@ -1,0 +1,615 @@
+﻿HSCode,Description,Unit,Quantity,Exports_Value_Rs_Thousands,Exports_Value_Rs_Billion
+01029000,Other live bovine animal (except cattle and buffalo ),PCS,59.0,1035.0,0.001035
+01039100,Live swine weighing <50kg (except pure-bred breeding),PCS,2627.0,6312.5,0.006313
+02102000,"Meat of bovine animals, salted or smoke edible flours and meals of meat offal.",Kg,479.200012,812.26755,0.000812
+04051000,Butter,Kg,6100.0,2717.69913,0.002718
+04059010,Ghee,Kg,1557.799999,1508.69335,0.001509
+04059090,Other Dairy Products,Kg,7060.0,9526.21656,0.009526
+04069010,Other cheese,Kg,11501.8,2905.5662,0.002906
+04090090,Other natural honey,Kg,2250.7,15909.53789,0.01591
+05010000,"Human hair, unworked, whether or not washed or scoured; waste of human hair.",Kg,56.1,2289.65605,0.00229
+05080000,"Coral; shells of molluscs, crustaceans or echinoderms and cuttlebone, unworked",Kg,0.3,1.5421,2e-06
+06011000,"Bulbs, tubers, tuberous roots, corms, crowns & rhizomes, dormat",PCS,478.0,174.4519,0.000174
+07049000,"White and red cabbages, kohlrabi, kalee tc, fresh or chilled.",Kg,7693325.0,122273.662,0.122274
+07069000,"salad beetroot, salsify, celeriac,radishes&similar edible roots, fresh or chilled",Kg,2500.0,40.0,4e-05
+07081000,"Peas (pisum sativum), fresh or chilled",Kg,902650.0,13335.575,0.013336
+07092000,"Asparagus, fresh or chilled",Kg,2205.900024,161.94308,0.000162
+07099900,Other fresh or chilled vegetables,Kg,157126.359924,12191.55149,0.012192
+07134090,"Red lentils (except Unskinned, unsplit)",Kg,339030.0,65347.1985,0.065347
+08043000,"Pineapples, fresh or dried",Kg,86.0,15.71839,1.6e-05
+08045000,"Guavas, mangoes and mangosteens, fresh or dried.",Kg,1505.5,361.76411,0.000362
+08045010,Guavas,Kg,171.0,36.46301,3.6e-05
+08045020,Mangoes,Kg,1818.5,92.88353,9.3e-05
+08083000,"Pears, fresh",Kg,47411.35,1610.30084,0.00161
+08105000,"Kiwifruit, fresh",Kg,7055.0,609.55,0.00061
+08109090,"Other fruit, fresh, nes",Kg,5431.0,173.01983,0.000173
+09011100,"Coffee, not roasted, not decaffeinated",Kg,8355.889969,20737.85988,0.020738
+09012100,"Roasted coffee, not decaffeinated",Kg,600.5,496.57507,0.000497
+09012200,"Roasted, decaffeinated coffee",Kg,0.75,2.95,3e-06
+09019000,"Coffee husks and skins,coffee substitutes containing coffee in any proportion",Kg,15.0,3.3616,3e-06
+09021000,"Green tea,whether or not flavoured, in immidiate packings of content <=3kg",Kg,16.0,21.12694,2.1e-05
+09022000,"Green tea,whether or not flavoured, nes",Kg,41615.126013,58161.03242,0.058161
+09024000,Other black tea (fermented) and other partly fermented tea,Kg,3612026.099609,991267.5494,0.991268
+09041130,Black Pepper (Marich),Kg,3.0,2.292,2e-06
+09041140,Neither crushed not ground Pepper (Sichuan pepper),Kg,1547.699951,4209.93032,0.00421
+09041190,Other Dried pepper neither crushed nor ground,Kg,445.0,1051.76994,0.001052
+09042100,"Dried, neither, crushed or ground piper & capsicum",Kg,0.2,0.15232,0.0
+09042200,Crushed or ground piper & capsicum,Kg,19.0,6.58991,7e-06
+09061100,Cinnamon (Cunnamomum zeylanicum Blume) - Neither crushed nor ground,Kg,506876.0,67132.20156,0.067132
+09083110,Big Cardamon (Alaichi) neither crushed nor ground,Kg,907555.0,1653462.68025,1.653463
+09101110,Fresh Ginger nither crushed nor ground,Kg,3172746.0,202939.404,0.202939
+09101190,Other Ginger crushed or ground (sutho),Kg,28086.0,8399.871,0.0084
+09101200,Other  Ginger crushed or ground,Kg,33510.0,6702.6,0.006703
+09103010,Turmeric (Fresh),Kg,2400.0,1647.8305,0.001648
+09109100,Other Spice mixtures (referred to in Note 1(b) to this Chapter),Kg,10979.185176,7168.78674,0.007169
+09109990,Other spices nes,Kg,117597.0,18585.8872,0.018586
+10082900,Other millet,Kg,7000.0,546.394,0.000546
+11010000,Wheat or meslin flour except maida,Kg,173003.0,15953.60805,0.015954
+11029000,"Other cereal flour, nes",Kg,54609.820435,24472.03617,0.024472
+11042900,"Other worked grains of other cereals, nes",Kg,35500.0,2946.28,0.002946
+11061000,"Flour, meal and powderOf the dried leguminous vegetables of Heading 07.13",Kg,10.0,2.304,2e-06
+12079900,"Other oil seeds and oleaginous fruits, nes",Kg,34560.0,4160.0,0.00416
+12099130,Seed of Onions,Kg,533.0,2079.12637,0.002079
+12099140,Seed of Raddish,Kg,200.0,377.2,0.000377
+12099190,Seed of other vegetables,Kg,240.0,546.18562,0.000546
+12119010,Yarchhagumba,Kg,178.089999,119453.82082,0.119454
+12119090,"Other plants or parts, of a kind used in perfumery, pharmacy etc, nes",Kg,899323.629987,184351.02942,0.184351
+13019000,"Natural gums, resins, gum-resins,natural oeoresesins and balsams (excl gum arab",Kg,301.0,10355.9784,0.010356
+13021900,"Other vegetable saps and extracts, nes",Kg,263210.25,121740.544,0.121741
+14019000,"Vegetable materials for plaiting, (excl. bamboos and rattans)",Kg,8801.5,4530.89273,0.004531
+14049010,Semi processed catechu of acacia (liquid ka tha),Kg,372640.0,105106.25,0.105106
+14049020,Cetechu of acacia (Kattha),Kg,244910.0,251976.96,0.251977
+14049050,Rudrakshya seeds,Kg,146363.2,13961.28982,0.013961
+14049060,Peal of edqeworthia crysantha(Mitusmata)(Ar eli ko bokra),Kg,16500.0,23760.0,0.02376
+14049070,Shopnut,Kg,74500.0,5106.77988,0.005107
+14049080,Broom grass (Amriso),Kg,2804870.0,205836.37,0.205836
+14049092,Bodhichitta seeds,Kg,2054.7,760.99108,0.000761
+14049099,Other vegetable products,Kg,2000.0,640.0,0.00064
+15079000,Soya-bean oil (excl. crude) and fractions,Kg,148408532.183472,36046198.11439,36.046198
+15119010,Refined bleached deodorized palm oil,LTR,2813378.528809,576173.4,0.576173
+15119020,Refined bleached deodorized palm olein,LTR,5039411.146181,1931761.416,1.931761
+15121900,Sunflower-seed and safflower oil (excl. crude) and fractions thereof,LTR,9243566.756287,2085348.1391,2.085348
+15141100,Crude oil of low erucic acid rape or colza oil,LTR,71500.769531,14887.0322,0.014887
+15141900,Other oil of low erucic acid rape or colza oil and its fractions,LTR,408601.5,92307.592,0.092308
+15149110,Crude oil of canola (Rapseed),LTR,57690.0,12922.56,0.012923
+15149190,Other crude oil,LTR,871392.888763,186739.7604,0.18674
+15149910,Other of canola (Rapeseed) nes,LTR,962667.328949,197243.844,0.197244
+15149990,"Other of rape, colza or mustard oil & fractions thereof nes",LTR,449605.21875,103450.044,0.10345
+15159000,Other fixed vegetable fats and fractions (NON_EDABLE),LTR,48110.0,10334.016,0.010334
+15180000,"Animal, vegetable or microbial fats and oils and their fractions, boiled, oxidised, d",LTR,3327726.109375,13858.8456,0.013859
+15220000,Degras; residues of fatty substances or animal or vegetable waxes,Kg,161420.0,12913.6,0.012914
+17029020,"Artificial Honey, Weather or not mixed with natural honey",Kg,277.6,103.96265,0.000104
+17031000,Cane molasses resulting from the extraction  or refining of sugar,Kg,5786340.0,110011.28288,0.110011
+17049000,"Sugar confectionery (including white chocolate), not containing cocoa",Kg,155326.070297,54867.5631,0.054868
+18063200,"Not filled (Chocolate, etc, containing cocoa in blocks, slabs or bars)",Kg,3.5,5.3851,5e-06
+18069090,"Other Chocolate, etc, containing cocoa, not in blocks, slabs or bars, nes.",Kg,1693.799951,1030.38973,0.00103
+19021100,Uncooked pasta containing eggs not stuffed,Kg,64602.218903,32898.12045,0.032898
+19021900,"Uncooked pasta, not containing eggs, not stuffed",Kg,18292.0,6581.45056,0.006581
+19023000,"Other pasta, nes",Kg,3413559.249827,925808.41547,0.925808
+19042000,Prepared foods obtained from unroasted cereal flakes or mixtures of unroasted & r,Kg,18209.400002,2307.66789,0.002308
+19049010,Puffed rice (Dhan ko bhuja - Murhi),Kg,350.0,160.44,0.00016
+19049020,Flattened rice(Chiura),Kg,460854.794922,218424.14091,0.218424
+19053100,Sweet biscuits,Kg,5416.970032,1877.69452,0.001878
+19053200,Waffles and wafers,Kg,475.200012,699.20331,0.000699
+19059020,"Kurkure, Kurmure, Lays, Cheeseballs",Kg,99823.610228,55559.19484,0.055559
+19059030,Papad,Kg,40.0,14.0576,1.4e-05
+19059050,Biscuits not specified elsewhere,Kg,36790.020184,12073.59247,0.012074
+19059081,"Other Crisp Savoury food products, unfried",Kg,1969.810059,2126.424,0.002126
+19059089,Other prepared crisp savoury food products,Kg,20604.0,7959.72325,0.00796
+19059090,Other bakers' wares nes,Kg,18011.599976,6409.17449,0.006409
+20011000,"Cucumbers and gherkins, preserved by vinegar or acetic acid",Kg,285.0,50.41574,5e-05
+20019000,"Other vegetables, fruits, etc, preserved by vinegar or acetic acid, nes",Kg,22003.020288,10756.51899,0.010757
+20041090,"Other potatoes prepared or preserved otherwise than by vinegar or acetic acid, froz",Kg,6.0,0.30408,0.0
+20052090,"Other potatoes, not frozen",Kg,344.0,216.60928,0.000217
+20059900,Other - Vegetables & mixtures of veg preseved otherwise than by vineger or acit,Kg,154.0,115.27232,0.000115
+20091100,"Frozen orange juice, unfermented, not containing added spirit",LTR,1976356.799992,215314.69966,0.215315
+20092100,Grapefruit juice of a brix value <=20,LTR,139648.79998,10967.80991,0.010968
+20094100,Pineapple juice of a brix value <=20,LTR,1174257.00006,141377.93435,0.141378
+20095000,"Tomato juice, unfermented, not containing added spirit",LTR,94800.0,7519.28061,0.007519
+20097100,Apple juice of a brix value <=20  .,LTR,922262.455984,101594.40456,0.101594
+20099000,"Mixtures of juices, unfermented, not containing added spirit.",LTR,9701747.580609,869561.88817,0.869562
+21031000,Soya sauce,Kg,744.0,151.76633,0.000152
+21033000,"Mustard flour and meal, prepared mustard",Kg,2233.990005,507.26028,0.000507
+21039010,"Sauces and sauce preparations; mixed condiments and seasonings, nes",Kg,10385.280029,10755.77268,0.010756
+21039020,Pickle (Achar),Kg,93460.200562,60044.40378,0.060044
+21039090,Other Sauces and preparations,Kg,28244.081055,14454.83407,0.014455
+21061000,Protein concentrates and textured proteinvsubstences,Kg,10348.0,1650.01383,0.00165
+21069010,"Dalmoth, Namkeen, Bhujiya and Chamena (titbits)",Kg,97551.680391,36739.67924,0.03674
+21069091,Food Supplements,Kg,139.06,239.50582,0.00024
+21069092,Herbal Tea,Kg,5733.439941,17524.86,0.017525
+21069094,Soya chunks (Soyabody  Masyaura),Kg,13917.5,8224.19179,0.008224
+21069099,Other Food Preparations,Kg,422835.163045,144557.65218,0.144558
+22021000,"Waters (incl. mineral and aerated), with added sugar, sweetener, etc.",LTR,10572.0,1366.27619,0.001366
+22029910,Energy Drink,LTR,540.0,167.475,0.000167
+22029930,Flavoured Milk Beverages,LTR,1260.0,440.28444,0.00044
+22029990,Other drinks (added sugar or other sweetening matter or flavoured),LTR,8856.0,42.56,4.3e-05
+22030010,Beer made from malt ( upto 5% alcohol),LTR,28380.0,6869.3855,0.006869
+22030020,Beer made from malt ( more than 5% alcohol),LTR,46774.0,5285.61346,0.005286
+22083092,Whiskies of an alcoholic strength 25UP (42.8%),LTR,7857.0,12365.35559,0.012365
+22084010,Alcoholic fluids including spirits used as raw materials of Rum and other spirit,LTR,8010.0,12200.031,0.0122
+22084092,Rum and other spirits of an alcoholic strength 25UP (42.8%),LTR,1369.800003,2208.30659,0.002208
+22086092,Vodka of an alcoholic strength 25UP (42.8%),LTR,3114.0,2011.536,0.002012
+22089093,Liquor of an alcoholic strength 30UP (39.94%),LTR,111.599998,1023.52319,0.001024
+23023000,"Brans, sharps and other residues of wheat",Kg,100.0,102.0704,0.000102
+23024010,"Brans, sharps and other residues of other cereals",Kg,5927343.0,295414.44725,0.295414
+23024090,"Other-Brans, sharps and other residues except residue of Cashew and Pallets",Kg,5671560.0,315128.70325,0.315129
+23025000,"Brans, sharps and other residues of leguminous plants",Kg,25000.0,900.4,0.0009
+23033000,Brewing or distilling dregs and waste,Kg,555940.0,722.722,0.000723
+23040000,"Oil-cake and other solid residues, of soyabean",Kg,946080.0,84371.1895,0.084371
+23064100,Oil-cake of low erucic acid rape or colza  seeds,Kg,16990000.0,759886.91,0.759887
+23064900,Other oil-cake & other solid residues rape  or colza seeds,Kg,94000.0,4060.8,0.004061
+23091000,"Dog or cat food, put up for retail sale",Kg,511049.841721,964372.0621,0.964372
+24039910,"Jarda, Khaini, Snuff, Ghutka and similar preparations containing chewing tobacco",Kg,22618.0,12346.58303,0.012347
+24039991,Hukkah Flavour,Kg,770.0,210.98,0.000211
+25062000,Quartzite,Kg,100.0,15.267,1.5e-05
+25181000,Dolomite not calcined or sintered,Kg,750.0,3.0,3e-06
+25210000,Limestone flux; limestone and other calcareous stone,Kg,2507000.0,8783.44,0.008783
+25231000,Cement clinkers,TNE,465614.100021,145950.43021,0.14595
+25232900,Portland cement (excl white),TNE,41627.46001,280335.00048,0.280335
+25261000,"Natural steatite, talc, Not crushed, not powdered",Kg,675550.0,9457.7,0.009458
+26190000,"Slag, dross, sealings & other waste, from the manufacture of iron or steel",TNE,5749.210007,93266.475,0.093266
+26201900,Ash and residues containing mainly zinc (excl hard zinc spelter),Kg,130525.0,27624.704,0.027625
+26204000,Ash and residues containing mainly aluminium,Kg,67780.0,16491.936,0.016492
+27060000,"Tar distilled from coal, lignite or peat, and other mineral tars",Kg,207440.0,9957.12,0.009957
+27149000,Bitumen and asphalt; natural asphaltites and asphaltic rocks,Kg,322.0,2954.40919,0.002954
+28051900,Alkali & alkaline -earth metals (excl sodium and calcium),Kg,0.005,4.0,4e-06
+29232000,Lecithins and other phosphoaminolipids,Kg,126550.0,6479.36,0.006479
+29261000,Acrylonitrile  .,Kg,9.0,0.61036,1e-06
+29329900,"Other heterocyclic compounds with oxygen hetero-atom(s) only, nes",Kg,11.5,3348.0,0.003348
+30029000,Others,Kg,0.0002,1494.81894,0.001495
+30033900,"Medicaments of other hormones, not for retail sale, nes",Kg,1.0,5.3634,5e-06
+30039010,Homoeopathic medicaments(pure ayurvedic an yunani),Kg,200446.3,124834.4819,0.124834
+30039049,"Chyanwanparsh, Dashamularist, Ashokarista, kalpasundari, arjunarista similar products",Kg,70801.700073,188248.82875,0.188249
+30041000,"Medicaments of penicillins or streptomycin, for retail sale",Kg,988.593,2745.4687,0.002745
+30043900,"Medicaments of other hormones, for retail sale, nes",Kg,0.43,3.821,4e-06
+30049010,Homoeopathic medicaments(Pure ayurvedican yunani),Kg,5.5,19.72404,2e-05
+30049090,Other - Medicaments put up in measured doss or in forms or packing for retail sale,Kg,2196.95,43527.8203,0.043528
+30059020,Bandage,Kg,5368.0,1982.6448,0.001983
+32019090,Other tanning extracts of vegetable or  gin nes.,Kg,269000.0,68558.304,0.068558
+32030010,Khayar Kachchha  .(Extract of cutch),Kg,461750.0,18100.74662,0.018101
+32131000,Colours in sets,Kg,35.0,3.19326,3e-06
+32159000,"Other ink, whether or not concentrated or solid, nes",Kg,68.0,25.5,2.5e-05
+33012900,"Essential oils (incl concretes and absolutes), nes.",LTR,1526.619994,30867.4835,0.030867
+33019000,"Concentrates of essential oils in fats  aquous distillates, extracted oleoresi",LTR,1835.09,24168.53849,0.024169
+33041000,Lip make-up preparations,Kg,410.0,6530.7625,0.006531
+33049910,Face Cream,Kg,19.0,107.24183,0.000107
+33049990,Other beauty or make up preparetions,Kg,1209.994001,1305.98528,0.001306
+33051000,Shampoos,LTR,709.0,216.43064,0.000216
+33053000,Hair lacquers,Kg,1.0,13.90516,1.4e-05
+33059010,Hair Oil,LTR,78.360001,110.68491,0.000111
+33061000,Dentifrices,Kg,260910.0,191678.829,0.191679
+33069000,"Preparations for oral or dental hygiene (incl denture fixative), nes",Kg,385.0,122.256,0.000122
+33074100,Agarbatti and other odiferous preparations which operate by burning.,Kg,24957.274971,12393.82444,0.012394
+34011100,Soap for toilet use including medicaments,Kg,65.0,87.16999,8.7e-05
+34011900,"Other Type of Soaps in the forms of bars, cakes, moulded pieces or shapes",Kg,5841.0,753.06425,0.000753
+34039900,"Other lubricating preparations, nes",Kg,1.1,0.048,0.0
+34049000,"Artificial waxes and prepared waxes, nes",Kg,9.0,3.88544,4e-06
+35069100,Adhesives based on polymers of heading 39.01  to 39.13 or on rubber,Kg,18060.0,3092.16278,0.003092
+38029000,Activated natural mineral products; animal  black,Kg,160980.0,772.704,0.000773
+38051000,"Gum, wood or sulphate turpentine oils",LTR,262480.0,68367.11,0.068367
+38061000,Rosin and resin acids,Kg,1155300.0,254543.6,0.254544
+38070000,"Wood tar; wood tar oils; wood creosote; wood naphtha, vegetable pitch etc",Kg,28505.039062,1596.28225,0.001596
+38231100,Stearic acid,Kg,34750.0,2502.0,0.002502
+38231900,Industrial monocarboxylic fatty acids & acid oils from refining nes.,Kg,4764388.0,578240.087,0.57824
+38245000,Non-refractory mortars and concretes,Kg,30080.0,406.158,0.000406
+38252000,Sewage sludge  .,Kg,112.0,5.98921,6e-06
+38256900,Other wastes from chemical or allied industries,Kg,75860.0,364.128,0.000364
+39019000,"Other polymers of ethylene, in primary forms, nes",Kg,27000.2,864.4,0.000864
+39033000,"Acrylonitrile-butadiene-styrene (abs) copolymers, in primary forms",Kg,173815.0,5562.08,0.005562
+39073000,Epoxide resines,Kg,0.79,6.43794,6e-06
+39076900,Other Poly(ethylene terephthalate),Kg,1157717.451294,122479.51205,0.12248
+39172100,"Tubes, pipes and hoses, rigid, of polymers  of ethylene.",Kg,2025.0,414.72,0.000415
+39173100,"Flexible tubes, pipes and hoses, with a bu  st pressure >=276mpa",Kg,102914.30957,26343.4495,0.026343
+39181090,Wall or Celling coverings and others of polymer of vinyl chloride,Kg,114642.599854,14643.05521,0.014643
+39191000,"Self-adhesive tape, plates, strip, in r oll , width =<20cm",Kg,0.5,2.1315,2e-06
+39199000,"Other self-adhesive plates, tape, strip, f  il of plastics, nes.",Kg,7906.82,8048.80208,0.008049
+39201010,"printed plates, sheets, film, foil and strip, of ethylene polymer",Kg,17901.929932,4439.67863,0.00444
+39204990,"Other  plates, sheets, film, foil and strip, of polymer, >6%",Kg,5737.599976,1384.508,0.001385
+39211990,"Other plates, sheets, film, foil and strip, of  other plastic celluler",Kg,393.0,94.32,9.4e-05
+39219092,Decorative Laminated Sunmica & Formica sheets,SQM,151694.370198,21653.61599,0.021654
+39231090,"Other Boxes, cases, crates and similar articles of plastics",Kg,390.0,16.2762,1.6e-05
+39233010,Pet bottle (bottle pre-form) of plastics,Kg,125378.119112,27709.38069,0.027709
+39233090,"Other - Carboys, bottles, flasks and similar articles nes of plastics",Kg,60470.0,13846.09157,0.013846
+39235000,"Stoppers, lids, caps and other closures of  plastics",Kg,85188.600098,31973.238,0.031973
+39249090,"other household articles and hygienic or toilet articles, of plastics.",Kg,14250.310059,4385.56328,0.004386
+39253000,"Shutters, blinds and similar articles and parts, of plastics",Kg,9.0,11.0,1.1e-05
+39259090,Other builders wares of plastics,Kg,337.0,242.62056,0.000243
+39264000,Statuettes and other ornamental articles of plastics,Kg,5.839,9.23212,9e-06
+39269010,"Bangles,Tika,Tikuli of plastics",GRO,18.0,4.56665,5e-06
+39269099,Other articles of plastics nes,Kg,28.78,26.07935,2.6e-05
+40030000,"Reclaimed rubber in primary forms or in pl  tes, sheets or strip",Kg,100000.0,17033.0,0.017033
+40113000,"New pneumatic tyres, of rubber for aircraf",PCS,42.0,7560.63637,0.007561
+40139010,Inner tubes of a kind used on Agricultural  Tractors.,PCS,3469.0,3480.30665,0.00348
+40139090,Other inner tubes of rubber nes,PCS,25695.0,5161.94885,0.005162
+41041900,"Other, leather of bovine or equine animals in the wet state (inclwet blue)",Kg,20000.0,3073.71525,0.003074
+41044100,"Leather of bovine or eqine  in the dry  state(crust) full grains, unsplit;grainÃ .",Kg,44030.0,5649.11375,0.005649
+41051000,"Tanned or crust skins of sheep or lambs, wthout wool, in the wet state (inclu",Kg,12.0,76.03,7.6e-05
+41062100,Tanned or crust hides and skins or goats or kids in the wet state (including wet.,Kg,114044.0,63903.13037,0.063903
+41079900,"Other, including hides (leather) nes",Kg,34353.0,3407.82237,0.003408
+42021900,"Trunks, suit-cases, etc, of other materials",PCS,180.0,85.6548,8.6e-05
+42022200,HandbagsWith outer surface of sheeting of plastics or of textile material,PCS,1251.0,301.95989,0.000302
+42022990,Hand bags of other,PCS,180.0,543.88437,0.000544
+42023200,"Articles normally carried in pocket or han  bag, of plastics or textiles.",PCS,5000.0,145.103,0.000145
+42023990,Others articles of felt carried in the pocket or handbag,PCS,631.0,121.05,0.000121
+42029200,"Cases and containers, nes, with outer surf  ce ofplastic or textiles.",PCS,189944.0,53249.66634,0.05325
+42029990,"Cases and containers, nes, with outer surf  ce of other materials, nes",PCS,1390.0,302.8471,0.000303
+44012110,Coniferous wood in chips or particles,Kg,516876.0,20675.04,0.020675
+44014100,Sawdust,Kg,17730.0,63.6816,6.4e-05
+44081000,"Coniferous veneer sheets and sheets for pl  wood, etc, =<6mm thick",FTK,6026520.0,84973.9136,0.084974
+44089000,"Veneer sheets and sheets for plywood and o  her wood, =<6mm thick, nes",FTK,19221835.0,391913.97523,0.391914
+44123100,With at least one outer ply of tropical woo  specified in Subhead. Note 2 to this,MTQ,437593.67436,514993.85965,0.514994
+44123900,Other plywood consisting solely of sheets   f wood,MTQ,384.866006,8157.53505,0.008158
+44129900,"Other, with both outer plies of coniferous wood",Kg,20675862.869446,895945.46616,0.895945
+44151000,"Cases, boxes, crates, drums and similar pa  kings of wood; cable-drums",PCS,1366.0,1562.73102,0.001563
+44152000,"Pallets, box pallets and other load boards  of wood; pallet collars of wood",PCS,27.0,13.89934,1.4e-05
+44181900,"Windows, French-windows and their frames of Other wood",PCS,3.0,11.56575,1.2e-05
+44182900,Doors and their frames and thresholds of Other wood,PCS,4199.0,3641.3795,0.003641
+44189900,"Other Builders' joinery&carpentry, panels, flooring, shingles&shakes (exl bamboo&wood",Kg,6006.0,552.67159,0.000553
+44199000,Tableware and kitchenware of other wood,Kg,913.0,206.18589,0.000206
+44209000,"Wood marquetry, inlaid wood; caskets & cases for jewellery a similar article of wood",Kg,698.0,609.57566,0.00061
+44211000,Clothes hangers of wood,Kg,26.0,34.8,3.5e-05
+44219110,"Spools, bobbins, reels and the like Of bamboo",Kg,9.4,11.0326,1.1e-05
+44219910,"Spools, bobbins, reels and the like of wood",Kg,90.0,100.23622,0.0001
+44219990,Others article of wood,Kg,8347.925,2495.56182,0.002496
+46021100,"Basket work, wicker work & other articles   f bamboo",PCS,405.0,227.94699,0.000228
+47071000,Unbleached kraft paper or paperboard or co  rugated paper or paperboard,Kg,25.0,7.612,8e-06
+48021000,Hand-made paper and paperboard,Kg,106000.690012,144419.21838,0.144419
+48024000,"Wallpaper base, uncoated, in rolls or shee  s",Kg,1.0,1.5241,2e-06
+48025700,Other paper & paperboard weighing 40 g/m2   r more but not more than 150 g/m2,Kg,90062.899219,7925.40712,0.007925
+48026100,"Paper (>10% of mechanical fibres), unco ate , in rolls, nes.",Kg,183460.0,13066.59524,0.013067
+48026200,Paperin sheets with one side >= 435mm an d  ther side <= 297mm in the unfolded s.,Kg,1.0,0.8,1e-06
+48059300,"Other paper, weighing 225 g/m2 or more",Kg,1496527.397461,75787.48342,0.075787
+48089000,"Paper and paperboard, corrugated, creped,   tc, in rolls or sheets, nes",Kg,0.01,0.1,0.0
+48109900,"Other paper and paperboard, nes",Kg,142545.100098,9083.43186,0.009083
+48201000,"Registers,accbooks,note books,order&recei p  books,letpad,memopadofpaper,pap.",Kg,83.0,267.25414,0.000267
+48209000,"Blotting pads, book covers and other artic  es of stationery of paper or paperboa",Kg,15.0,9.94375,1e-05
+48236900,"Other - Trays, dishes, plates, cups & the   ike of paper or paperboard",Kg,153994.0,9679.56775,0.00968
+48239000,"Paper and paperboard, cut to size and arti  les of paper, etc, nes",Kg,855.0,92.8534,9.3e-05
+49011000,"Printed books,brochures,leaflets&similar p  inted matter,in single sheets, whethe",PCS,12393.0,2649.70996,0.00265
+49019900,"Printed books, brochures, leaflets and similar printed matter, nes",PCS,1530.0,779.58213,0.00078
+49029000,"Newspapers, journals and periodicals, appe  ring less than four times a week.",Kg,0.268,0.9114,1e-06
+49059000,"Maps and hydrographic or similar charts of all kinds, atlases, etc not in book form",Kg,0.2,1.5,2e-06
+49070090,"Unused postage, stamp-impressed paper;  ban  note, stock, share, cheque forms,",Kg,34.0,1.37619,1e-06
+49090000,"Printed or illustrated postcards; printed   ards bearing greetings, messages etc.",PCS,3829.0,636.35101,0.000636
+49111000,"Trade advertising material, commercial cat  logues and the like",Kg,251.0,108.38153,0.000108
+49119100,"Pictures, designs and photographs   .",Kg,57.695,51.4724,5.1e-05
+49119990,Other Printed Materials  .,Kg,25.55,33.87994,3.4e-05
+51071000,"Yarn of combed wool, not put up for retail  sale, with >=85% weight of wool",Kg,1373.0,1539.36,0.001539
+51072000,"Yarn of combed wool, not put up for retail  sale, with <85% weight of wool",Kg,547.0,711.53763,0.000712
+51091090,"otherYarn of wool, with>=85% weight of wool or of fine animal hair, put up for retail",Kg,15.0,79.8138,8e-05
+52062200,"Combed single cotton yarn, with <85% cotto  , nprs, >14mn but <=43mn.",Kg,4012.0,3918.023,0.003918
+52111100,"Unbleached plain cotton weave, with <85% c  tton, >200g/m2 by weight",SQM,655.0,99.7172,0.0001
+53021000,"True hemp, raw or retted  .",Kg,120.0,35.176,3.5e-05
+53072000,Multiple or cabled yarn of jute or of othe   textile bast fibres of heading 5303.,Kg,875530.0,200933.33866,0.200933
+53081000,Coir yarn of other vegetable textile fibre,Kg,2115.0,2131.28,0.002131
+53082000,True hemp yarn of other vegetable textile   ibres,Kg,1117.649994,662.66619,0.000663
+53089000,"Yarn of vegetable textile fibres, nes",Kg,737.87001,989.69431,0.00099
+53101000,Unbleached woven fabrics of jute or of oth  r textile bast fibre of heading 5303.,SQM,29957141.0,2234995.86185,2.234996
+54023400,"Textured yarn of polypropylene, nprs  .",Kg,194789.319824,56192.44849,0.056192
+54026300,Of Polypropylene,Kg,11185.200195,3668.7455,0.003669
+54072000,Woven fabrics obtained from synthetic stri   or the like,SQM,42626651.285156,737502.57762,0.737503
+55012000,Synthetic filament tow of polyesters  .,Kg,3514.399902,1520.97612,0.001521
+55051000,"Waste of synthetic fibre, (incl noils, ya r  waste and garnetted stock)",Kg,79080.0,4675.175,0.004675
+55092100,"Single yarn, with >=85% polyester staple f  bres, nprs",Kg,5102014.3013,1302475.41701,1.302475
+55092200,"Multiple or cabled yarn, with >=85% polyes  er staple fibres, nprs",Kg,998483.599792,270384.29952,0.270384
+55093100,"Single yarn, with >=85% acrylic or modacry  ic staple fibres, nprs",Kg,224128.797363,118526.471,0.118526
+55093200,"Multiple or cabled yarn, >=85% acrylic or   odacrylic staple fibres, nprs",Kg,305177.398499,129859.98716,0.12986
+55095100,"Other yarn, <85% polyester staple fibres,   ith artificial staple fibres, nprs",Kg,4244442.005035,1360827.81701,1.360828
+55095200,"Other yarn, <85% polyester staple fibres,   ith wool or fine animal hair, nprs",Kg,49483.300095,16513.55451,0.016514
+55095300,"Other yarn, <85% polyester staple fibres,   ixed with cotton, nprs",Kg,18162.200195,5204.22494,0.005204
+55095900,"Other yarn, <85% polyester staple fibres,   es, nprs",Kg,222733.5,54974.6963,0.054975
+55101100,"Single yarn (other than sewing thread), wi  h >=85% artificial staple fibres, npr",Kg,198920.700806,75639.72461,0.07564
+55101200,"Multiple or cabled yarn, with >=85% artifi  ial staple fibres, nprs",Kg,196994.200684,81516.88237,0.081517
+55109000,"Other yarn, with <85% artificial staple fi  res, nes, nprs",Kg,90372.899658,39961.97293,0.039962
+56021000,Needleloom felt and stitch-bonded fibre fa  rics,Kg,3884.790039,8194.237,0.008194
+56022100,"Felt of wool or fine animal hair (excl im p egnated, coated, etc)",Kg,37163.399502,56426.71205,0.056427
+56022900,"Felt of textile materials (excl impregnat e , coated, etc)",Kg,1685.0,3901.71448,0.003902
+56029000,"other Felt, whether or not impregnated, coated, covered or laminated. nes  .",Kg,364827.05023,1405359.78436,1.40536
+56072900,"Twine, cordage, rope and cables, of sisal,  etc, of the genus agave, nes.",PCS,27.0,3.89,4e-06
+56074900,"Twine, cordage, rope and cables, of polyet  ylene or polypropylene",Kg,68495.399414,16239.8557,0.01624
+57011000,"Carpets and other textile floor coverings,  of wool or fine animal hair, knotted.",SQM,50976.062736,1767498.13171,1.767498
+57019000,"Carpets and other textile floor coverings,  of other textiles, knotted",SQM,5533.320023,8003.73965,0.008004
+57022000,Floor coverings of coconut fibres (coir)  .,SQM,1.0,43.33212,4.3e-05
+57024910,Carpets and floor covering of felt (Jamoth),SQM,261376.79108,122124.94886,0.122125
+57024990,Carpets and floor covering of other textiles materials,SQM,6.0,37.41345,3.7e-05
+57031000,Of wool or fine animal hair,SQM,8085.77993,32209.54037,0.03221
+57032100,Turf,SQM,25580.050444,7497.99089,0.007498
+57033900,carpet & other textile floor coverings of other man-made textile materials,SQM,72105.679817,48572.90334,0.048573
+57039090,Other floor covering (excluding cotton) nes,SQM,26560.1,11526.54618,0.011527
+58019000,"Woven pile and chenille fabrics of other t  xtiles, nes",SQM,1475.0,191.75,0.000192
+59019000,"Tracing cloth; prepared painting canvas; b  ckram, etc",SQM,39936.0,3269.39569,0.003269
+59039000,"Textile fabrics impregnated, coated covere   or laminated with plastics,nes",SQM,24939.0,1968.51841,0.001969
+59080000,"Textile wicks, woven,plaited or knitted fo   lamps,stovesincandescent gas mantl",Kg,4.3,15.0,1.5e-05
+61013000,"Men's or boys' coats, capes, cloaks, etc,   f man-made fibres, knitted or crochet",PCS,2049.0,3199.086,0.003199
+61019000,"Men's or boys' coats, capes, cloaks, etc,   f other textiles, knitted or crochete",PCS,83.0,263.97559,0.000264
+61021000,"Woman's or girls' coats, capes,cloaks,wind  jacket, etc, of wool, knitted or cr",PCS,4486.0,11968.71351,0.011969
+61029000,"Woman's or girls' coats, capes, cloaks, et  , of other textiles, knitted or croch",PCS,4.0,148.92784,0.000149
+61032900,"Men's or boys' ensembles of other textiles   nes, knitted or crocheted",PCS,658.0,452.83769,0.000453
+61033100,"Men's or boys' jackets and blazers of wool  or fine animal hair, knitted or croch",PCS,76.0,2191.36844,0.002191
+61033300,"Men's or boys' jackets & blazers of synthe  ic fibres, knitted or crocheted",PCS,1350.0,4885.515,0.004886
+61033900,"Men's or boys' jackets & blazers of other   extiles, nes, knitted or crocheted",PCS,35.0,44.5404,4.5e-05
+61034100,"Men's or boys' trousers, bib & brace, shor  s, etc, of wool, knitted or crochet",PCS,181.0,2906.57703,0.002907
+61034200,"Men's or boys' trousers, bib & brace, shor  s, etc, of cotton, knitted or crochet",PCS,2621.0,2118.85312,0.002119
+61041900,"Women's or girls' suits of other textiles   aterials, nes, knitted or crocheted",PCS,2.0,1.524,2e-06
+61042900,"Women's or girls' ensembles, of other text  les, knitted or crocheted",PCS,1.0,5.001,5e-06
+61043100,"Women's or girls' jackets & brazers of woo   or fine animal hair, knitted or croc",PCS,10803.0,42987.42417,0.042987
+61044100,"Woman's or girls' dresses of wool or fine   nimal hair, knitted or crocheted.",PCS,111.0,2189.25733,0.002189
+61044200,"Woman's or girls' dresses of cotton, knitt  d or crocheted",PCS,574.0,1368.28887,0.001368
+61045100,"Woman's or girls' skirts and divided skirt   of wool or fine hair, knitted or cro",PCS,113.0,1658.96857,0.001659
+61046200,"Women's or girls' trousers, bib & brace, s  orts, etc, of cotton, knitted or croc",PCS,546.0,1015.81705,0.001016
+61059000,"Men's or boys' shirts of other textiles, n  s, knitted or crocheted",PCS,79.0,2069.72413,0.00207
+61061000,"Women's or girls' blouses, shirts & shirt-  louses of cotton, knitted or crochete",PCS,2072.0,2101.49425,0.002101
+61069000,"Women's or girls' blouses,shirt&shirt-blou  es of other textiles nes,knitted or c",PCS,4511.0,8529.38179,0.008529
+61089900,"Women's or girls' dressing gowns of oth er  extiles,nes, knitted or crocheted",PCS,7.0,444.22559,0.000444
+61091000,"T-shirts, singlets and other vests, of cot  on, knitted or crocheted.",PCS,40657.0,46559.10477,0.046559
+61099000,"T-shirts, singlets & other vests of other   extiles, nes, knitted or crocheted",PCS,789.0,4130.88526,0.004131
+61101100,"Jerseys,pullovers,cardigans,waistcoats & s  milar articles of wool, knitted or cr",PCS,83259.0,320655.617,0.320656
+61101200,"Jerseys,pullovers,cardigans,waistcoats&sim  lar articles of Kashmir(cashmere) goa",PCS,282284.0,462542.73614,0.462543
+61101900,"Other jerseys,pullovers,cardigans,waistcoa  s&similar articles,knitted or crochet",PCS,31961.0,26637.80263,0.026638
+61102000,"Jerseys, pullovers, cardigans, waistcoats,  etc, of cotton, knitted or crocheted.",PCS,5835.0,9015.53252,0.009016
+61109000,"Jerseys, pullovers,cardigans, waistcoats,   tc,of other textiles,nes,knitted or c",PCS,13089.0,69818.01565,0.069818
+61119000,"Babies' garments & clothing accessories of  other textiles,nes, knitted or croche",PCS,540.0,339.82941,0.00034
+61130000,"Garments made up of knitted or crocheted f  brics of heading 5903, 5906, 5907",PCS,10774.0,1188.75685,0.001189
+61142000,"Garments of cotton, knitted or crocheted,   es",PCS,34895.0,24500.18475,0.0245
+61149000,"Garments of other textiles, knitted or cro  heted, nes",PCS,32.0,314.97642,0.000315
+61151000,Graduated compression hosiery (for example   stockings for varicose veins),PR,18.0,78.64356,7.9e-05
+61159400,Other hosiery of wool or fine animal hair   .,PR,200.0,1270.20875,0.00127
+61159500,Other hosiery of Cotton   .,PR,500.0,304.74,0.000305
+61161000,"Impregnated, coated, covered or laminated with plastics or rubber",PR,21.0,228.48266,0.000228
+61169100,"Gloves, mittens and mitts, of wool or fine  animal hair, knitted or crocheted",PR,127342.0,65991.90353,0.065992
+61169200,"Gloves, mittens and mitts, of cotton, knit  ed or crocheted",PR,6426.0,1997.97013,0.001998
+61171000,"Shawls, scarves, mufflers, mantillas, veil  , etc, knitted or crocheted",PCS,33447.0,125867.13863,0.125867
+61178000,"Other clothing accessories, knitted or cro  heted, nes",PCS,3225.0,2237.6222,0.002238
+61179000,"Parts of garments or clothing accessories,  knitted or crocheted",PCS,3965.0,9318.93204,0.009319
+62012000,"Men's or boys' coats, capes, cloaks, jackets,etc, Of wool or fine animal hair <>62.03",PCS,565.0,149.7,0.00015
+62013000,"Men's or boys' coats, capes, cloaks, wind jackets, etc, Of cotton other than 62.03",PCS,1015.0,27.51462,2.8e-05
+62014000,"Men's or boys' coats, capes, cloaks, wind jackets, etc Of man-made fibres <> 62.03",PCS,125.0,4728.12,0.004728
+62019000,"Men's or boys' coats, capes, cloaks, jackets, etc Of other textile material <> 62.03",PCS,750.0,135.0,0.000135
+62024000,"Men's or boys' coats, capes, cloaks, wind jackets, etc Of man-made fibres <> 62.04",PCS,4.0,47.41402,4.7e-05
+62029000,"Men's or boys' coats, capes, cloaks, jackets, etc Of other textile material <> 62.04",PCS,1990.0,3944.3755,0.003944
+62031100,Men's or boys' suits of wool or fine anima   hair,PCS,4413.0,7458.8465,0.007459
+62033100,Men's or boys' jackets and blazers of wool  or fine animal hair,PCS,12088.0,26760.93988,0.026761
+62033200,Men's or boys' jackets and blazers of cott  n,PCS,12488.0,7461.90549,0.007462
+62033300,Men's or boys' jackets and blazers of synt  etic fibres,PCS,999.0,3503.68574,0.003504
+62033900,"Men's or boys' jackets and blazers of othe   textiles materials, nes.",PCS,1937.0,1251.5,0.001252
+62034200,"Men's or boys' trousers, bib & brace overa  l, breeches & shorts of cotton",PCS,152771.0,68347.69327,0.068348
+62034300,"Men's or boys' trousers, bib & brace overa  l, breeches & shorts of synthetic fib",PCS,216.0,290.19025,0.00029
+62034900,"Men's or boys' trousers, bib & brace overa  l, breeches & shorts of other textile",PCS,10062.0,10687.55,0.010688
+62041900,"Women's or girls' suits of other textiles   aterials, nes",PCS,599.0,96.12635,9.6e-05
+62042200,Women's or girls' ensembles of cotton   .,PCS,26.0,6.87955,7e-06
+62043100,Women's or girls' jackets and blazers of w  ol or fine animal hair,PCS,13491.0,2085.40336,0.002085
+62043200,Women's or girls' jackets and blazers of c  tton.,PCS,75619.0,30271.61769,0.030272
+62044200,Women's or girls' dresses of cotton   .,PCS,464000.0,163308.58566,0.163309
+62044300,Women's or girls' dresses of synthetic fib  es,PCS,1685.0,152.65397,0.000153
+62044900,"Women's or girls' dresses of other textile  , nes",PCS,43.0,11.46867,1.1e-05
+62045200,Women's or girls' skirts and divided skirt   of cotton,PCS,37010.0,15647.97268,0.015648
+62045300,Women's or girls' skirts and divided skirt   of synthetic fibres.,PCS,264.0,30.10392,3e-05
+62046200,"Women's or girls' trousers, breeches, etc,  of cotton",PCS,1517085.0,539664.05558,0.539664
+62046900,"Women's or girls' trousers, breeches, etc,  of other textiles materials, nes.",PCS,2365.0,190.37295,0.00019
+62052000,Men's or boys' shirts of cotton   .,PCS,142666.0,93908.17961,0.093908
+62053000,Men's or boys' shirts of man-made fibres  . .,PCS,19138.0,18262.84225,0.018263
+62059000,"Men's or boys' shirts of other textiles ma  erials, nes",PCS,1415.0,1229.00753,0.001229
+62063000,"Women's or girls' blouses, shirts, shirt-b  ouse of cotton",PCS,620.0,368.78591,0.000369
+62069000,"Women's or girls' blouses, shirts, shirt-b  ouse of other textiles, nes",PCS,126.0,795.01156,0.000795
+62092000,Babies' garments and clothing accessories   f cotton.,PCS,219.0,300.33245,0.0003
+62099000,"Babies' garments and clothing accessories   f other textiles, nes",PCS,981.0,433.28845,0.000433
+62114220,"Saree, Lungi & Dhoti women's or girls' of cotton",PCS,253.0,169.44596,0.000169
+62114290,"Other garments, women's or girls of cotton  .",PCS,26.0,0.046,0.0
+62114990,Other garments of other textiles material,PCS,35552.0,6464.2709,0.006464
+62132000,Handkerchiefs of cotton   .,PCS,3.0,3.81475,4e-06
+62141000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of silk or silk waste.",PCS,330.0,98.548,9.9e-05
+62142000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of wool or fine animal hair",PCS,785515.0,822054.39071,0.822054
+62143000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of synthetic fibres",PCS,3.0,1.8004,2e-06
+62144000,"Shawls, scarves, mufflers, mantillas, veil  , etc, of artificial fibres",PCS,287.0,312.87363,0.000313
+62171000,"Other made up clothing accessories, nes",PCS,25742.0,23296.98091,0.023297
+62179000,"Parts of garments or of clothing accessori  s, other than those of heading 6212,",PCS,2302.0,427.20829,0.000427
+63012000,"Blankets (excl electric blankets) and tra v lling rugs, of wool or fine animal ha",PCS,2879.0,41415.26239,0.041415
+63013000,"Blankets (excl electric blankets) and tra v lling rugs, of cotton",PCS,175.0,407.06527,0.000407
+63019000,"Other blankets and travelling rugs, nes   .",PCS,2239.0,31295.74729,0.031296
+63022110,"Pillow cover, Printed of cotton (excl knitted or crocheted).",PCS,37.0,345.20866,0.000345
+63025900,"Other Table linen of other textiles, nes (excl  knitted or crocheted)",PCS,3.0,6.8778,7e-06
+63031200,"Curtains, interior blinds, bed, valances o   synthetic fibres, knitted or crochet",PCS,251.0,272.42962,0.000272
+63039900,Curtains and interior blinds; curtain/bed   alances of other textiles materials,PCS,70.0,14.0,1.4e-05
+63041100,Knitted or crocheted bedspreads   .,PCS,1.0,0.1,0.0
+63041900,Bedspreads (excl knitted or crocheted)   .,PCS,4383.0,1325.35691,0.001325
+63049100,"Knitted or crocheted furnishing articles,   es",PCS,905.0,233.60888,0.000234
+63049210,Cushion cover of cottion not knitted or croacheted,PCS,335.0,182.55812,0.000183
+63051000,Sacks and bags of jute,Kg,462657.0,114493.98537,0.114494
+63052000,"Sacks and bags, used for packing goods, of  cotton",Kg,12538.8,27423.97201,0.027424
+63053300,"Sacks and bags,used for packing goods, of   olyethylene or polypropylene strip",Kg,5472.299805,2041.42512,0.002041
+63061900,"Tarpaulins, awnings and sunblinds, of othe   textiles materials, nes.",PCS,1.0,1.8,2e-06
+63071000,"Floor-cloths, dish-cloths, dusters and sim  lar cleaning cloths.",PCS,123.0,524.61281,0.000525
+63079010,"Cloth, cut into triangular shape in the fo  m to cover umbrella ribs.",PCS,16939.0,18190.41122,0.01819
+63079090,Others made up textile article,PCS,97485.0,85753.10698,0.085753
+63090000,Worn clothing and other worn articles,Kg,1500.0,150.0,0.00015
+63101000,"Sorted Used or new rags,scrap twine, cordage,rope&cable&worn out article of twine etc",Kg,34582.900024,2293.96378,0.002294
+63109000,"Other Used or new rags,scrap twine,cordage,rope& cable&worn out article of twine etc,",Kg,65.0,30.564,3.1e-05
+64019900,Other waterproof footwear (not covering the ankle),PAIR,1452.0,755.04,0.000755
+64021900,"Sport footwear, nes, of rubber or plastics",PAIR,240.0,38.2032,3.8e-05
+64029900,"Other footwear, nes, not covering the ankle, of rubber or plastics",PAIR,478116.0,131395.45476,0.131395
+64035900,"Footwear with leather soles and uppers, not covering the ankle",PAIR,468.0,18.04257,1.8e-05
+64041900,"Sports footwear, with rubber or plastic soles and textile uppers",PAIR,640138.0,394222.97114,0.394223
+64042000,Footwear with outer soles of leather or composition leather,PAIR,1395.0,788.26316,0.000788
+64052010,Other footware with uppers of cotton textile materials,PAIR,3434.0,6553.0645,0.006553
+64059000,"Footwear, nes",PAIR,4047.0,5855.32588,0.005855
+64069000,Other shoe parts,PR,1.0,3.0284,3e-06
+65020000,"Hat-shapes, plaited or made by assembling   trips of any material",PCS,507.0,337.41147,0.000337
+65050019,Other hair nets,Kg,9.67,167.74964,0.000168
+65050030,Sun cap,PCS,1.0,1.16335,1e-06
+65050090,Other cap,PCS,37022.0,54479.30476,0.054479
+65061000,Safety headgear,PCS,1.0,5.402,5e-06
+67029010,"Artificial flowers, foliage, etc and artic  es thereof of other materials",Kg,309.119995,1665.71519,0.001666
+67029090,"Artificial flowers, foliage, etc and artic  es thereof of other materials",Kg,319.119995,1690.62058,0.001691
+67041100,Complete wigs of synthetic textile materia  s,Kg,10.89,160.76714,0.000161
+67042000,"Wigs, false beards, eyebrows, etc and arti  les, nes, of human hair",Kg,818.1,12292.05662,0.012292
+67049000,"Wigs, false beards, eyebrows, etc, nes of   ther materials",Kg,34.6,3366.49337,0.003366
+68029100,"Marble, travertine and alabaster, worked  .",Kg,22740.0,2882.45125,0.002882
+68043000,Hand sharpening or polishing stones   .,Kg,0.6,6.8418,7e-06
+68101190,Other Building blocks and bricks,PCS,443579.0,17387.62148,0.017388
+68159900,"Articles of stone or other mineral substan  es, nes.",Kg,230.0,4.16367,4e-06
+69029000,"Refractory bricks, blocks, tiles, etc, nes",Kg,112890.0,254.00249,0.000254
+69072100,Of a water absorption coefficient by weight not exceeding 0.5 %,SQM,12346.559967,5824.33579,0.005824
+69074000,Finishing Ceramics,SQM,22212.559975,6959.232,0.006959
+69119000,"Household and toilet articles, nes, of por  elain or china",PCS,45.0,103.21425,0.000103
+69120000,"Ceramic tableware, kitchenware, other hous  hold articles (excl porcelain or chin",PCS,8500.0,4045.08223,0.004045
+69131000,Statuettes and other ornamental ceramic ar  icles of porcelain or china,PCS,101.0,47.35116,4.7e-05
+69139000,Statuettes and other ornamental articles (  xcl porcelain or china),PCS,8.0,33.79312,3.4e-05
+69141000,"Ceramic articles, nes, of porcelain or chi  a",PCS,5861.0,3030.67379,0.003031
+69149000,"Ceramic articles, nes (excl porcelain or  c ina).",PCS,463.0,92.93827,9.3e-05
+70010000,"Cullet and other waste and scrap of glass, excluding glass from cathode ray tubes or",Kg,6052415.0,67978.51919,0.067979
+70071900,"Toughened (tempered) safety glass, nes",SQM,7265.463012,16406.85375,0.016407
+70109000,"Carboys, bottles, flasks, jar, pot, phials  etc of glass, nes",GRO,3.84,4.6128,5e-06
+70131000,"Glass-ceramic objects, used for table, kitchen, toilet, office, indoor decoration",PCS,707728.0,102756.72112,0.102757
+70139900,"Other -  glassware, nes",PCS,20435.0,3122.468,0.003122
+70179000,"Laboratory, hygienic or pharmaceutical gla  sware, nes",Kg,0.7,213.45878,0.000213
+70181010,"Bangles,tika ,tikuli & beds",GRO,13770.244998,1554.58011,0.001555
+70181020,Glass beads (Pote),Kg,1729.627,6290.87389,0.006291
+70189010,Glass statuette and ornamental articles,PCS,1453.0,261.06761,0.000261
+70189090,"Glass statuettes and other ornaments of la  p-worked glass,  nes",Kg,44.0,6.0943,6e-06
+70200000,"Other articles of glass, nes  .",PCS,385.0,214.81985,0.000215
+71011000,"Natural pearls (excl strung, mounted or s e )",Kg,454.0,29.90857,3e-05
+71131100,Articles of jewellery and parts thereof of silver,GRM,66072.106086,37497.81716,0.037498
+71131910,"Jewellery of Gold, including parts",GRM,1129.173788,26414.13425,0.026414
+71141100,Articles of goldsmiths' or silversmiths' w  res of silver,GRM,3000.0,8.60313,9e-06
+71171900,"Imitation jewellery of base metal (incl p l ted), nes",Kg,1113.179999,20791.88713,0.020792
+71179000,Imitation jewellery (excl of base metal)  n s,Kg,6007.216,19145.74445,0.019146
+72041000,Waste and scrap of cast iron  .,Kg,18000.0,1440.0,0.00144
+72042100,Waste and scrap of stainless steel,Kg,1045015.0,78919.891,0.07892
+72044900,"Ferrous waste and scrap, nes  .",Kg,50645.0,1215.48,0.001215
+72091800,"Flat/cold-rolled iron/steel, in coils, wid  h >=600mm, < 05mm thickness",Kg,61068.0,7853.38075,0.007853
+72092800,"Flat/cold-rolled iron/steel, not in coils,  width >=600mm, < 05mm thickness",Kg,2128357.0,273879.02878,0.273879
+72104100,"Flat-rolled iron/steel,width >=600mm, plat  dwith zinc,(exclelectro-plated)cor",Kg,1150258.0,168107.50119,0.168108
+72104900,"Flat-rolled iron/steel,width >=600mm, plat  d or coated with zinc(exclelectro-pla",Kg,2755610.0,399035.57144,0.399036
+72106100,"Rolled iron/steel, width >=600mm, plated o   coated with aluminium-zinc alloys",Kg,492201.0,69404.6805,0.069405
+72107000,"Rolled iron/steel, width >=600mm, painted,  varnished or coated with plastics",Kg,4807205.0,733495.32982,0.733495
+72112300,"Flat/cold-rolled iron/steel, width <600mm,  containing by weight < 025% carbon",Kg,1038179.0,133386.68919,0.133387
+72142000,"Iron/steel bars & rods, hot-rolled,twis ted  or with deformations from rolling",Kg,332550.0,27727.232,0.027727
+72165000,"Angles, shapes and sections of iron/steel,  not further worked than hot-rolled,",Kg,114.22,48.37,4.8e-05
+72172000,"Wire of iron or non-alloy steel,plated or   oated with zinc.",Kg,327479.0,39195.41442,0.039195
+73012000,"Welded angles, shapes and sections of iron  or steel",Kg,192.0,91.692,9.2e-05
+73063000,"Other tubes,pipes&hollow profile, welded,o   circular crosssection,of iron/nonall",Kg,207380.700012,25381.77364,0.025382
+73066100,"Tube, pipesa, welded, of non ciruclar cros  section of square or rectangular cros",Kg,98.761002,9.48106,9e-06
+73069090,"Others welded, of non-circular cross-section pipe",Kg,574655.0,46119.31056,0.046119
+73083000,"Doors, window-frames and thresholds for do  rs of iron or steel.",Kg,245.420002,137.91501,0.000138
+73089000,"Structures and parts of structures, nes, o   iron or steel",Kg,3655.52002,1767.22001,0.001767
+73090000,"Reservoirs, tanks (excl for gas) of ir on o  steel, >300 l",PCS,24.0,603.3215,0.000603
+73110010,"Oxygen cylinder, tank and similar goods of iron or steel",PCS,27.0,86.4,8.6e-05
+73121000,"Stranded wire, cables of iron or steel, no   electically insulated",Kg,71480.0,1601.24,0.001601
+73144100,"Iron/steel cloth, grill, netting & fencing   nes, plated or coated with zinc.",Kg,98987.016479,14465.4816,0.014465
+73181900,"Threaded articles, nes, of iron or steel  .",Kg,23.8,50.48499,5e-05
+73231000,"Iron or steel wool, pot scourers, scouring  or polishing pads, gloves",Kg,13360.0,1838.75733,0.001839
+73239100,"Table, kitchen or household articles of  ca t iron, not enamelled",Kg,17782.0,3617.1418,0.003617
+73239300,"Table, kitchen or household articles of  st inless steel",Kg,1843676.939521,1345906.75747,1.345907
+73239400,"Table, kitchen or household articles of  ir n or steel, enamelled",Kg,2024.880005,244.96139,0.000245
+73239900,"Table, kitchen or household articles of  ir n or steel, nes.",Kg,7796.0,859.64028,0.00086
+73259900,"Cast articles of iron or steel, nes",Kg,9590.0,2240.0,0.00224
+73269000,"Articles of iron or steel, nes   .",Kg,25.0,6.34257,6e-06
+74032100,"Brass, unwrought  .",Kg,20.925,152.72345,0.000153
+74032200,"Bronze, unwrought",Kg,15.0,0.1529,0.0
+74032900,"Copper (excl master alloys or heading 74 05  nes, unwrought.",Kg,16.0,8.78202,9e-06
+74091100,"Plates, sheets and strip, of refined coppe  , in coils, >015mm thick.",Kg,3644.0,7830.008,0.00783
+74092100,"Plates, sheets and strip, of brass, in coi  s, >015mm thick.",Kg,158269.0,266355.11162,0.266355
+74093100,"Plates, sheets and strip, of bronze, in co  ls, >015mm thick",Kg,2156.0,5019.168,0.005019
+74181000,"Table, kitchen or other household articles  nd parts thereof;pot scourers and sco",Kg,73764.0,15696.76561,0.015697
+74192000,"Cast, moulded, stamped or forged, but not further worked",Kg,10.0,88.75034,8.9e-05
+74198000,Other article of copper,Kg,45710.669918,24560.06258,0.02456
+76020000,Aluminium waste and scrap,Kg,121755.0,25688.28,0.025688
+76041090,"Other bars, rods of aluminium, not alloyed",Kg,13173.02002,8219.9645,0.00822
+76051100,"Wire of aluminium, not alloyed, maximum cr  ss-sectional dimension >7mm",Kg,447543.0,257024.636,0.257025
+76052100,"Wire of aluminium alloys, maximum cross-se  tional dimension >7mm",Kg,1129649.0,655262.5115,0.655263
+76071100,"Aluminium foil, =<02mm thick, not backed,   olled but not further worked.",Kg,0.4,1.0,1e-06
+76151000,"Table, kitchen or other household articles  nd parts thereof;pot scourers and sco",PCS,8915.0,7008.4676,0.007008
+78019900,Unwrought lead (excl refined and containi n  antimony),Kg,484815.0,153143.054,0.153143
+79020000,Zinc waste and scrap  .,Kg,66250.0,11586.24,0.011586
+82011010,Spades (Kodalo),PCS,8016.0,2436.864,0.002437
+82011090,"Shovels; hand tools, used in agriculture, horticulture or forestry",PCS,45654.0,12610.56,0.012611
+82119200,Knives with fixed blades (excl table kniv e ),PCS,1053.0,211.16425,0.000211
+82122000,Safety razor blades (incl razor blades bl a ks in strips),PCS,403000.0,282553.379,0.282553
+82151000,"Sets of assorted spoons, forks, etc (one o   more plated with precious metal)",Kg,10.0,8.3633,8e-06
+83061090,"Other type  of bells, gongs and the like  .",Kg,2420.380005,2862.13935,0.002862
+83062110,Statuettes of plated with precious metal,Kg,16915.949999,41550.59411,0.041551
+83062190,Other ornaments of plated with precious metal,Kg,2543.969991,1162.38371,0.001162
+83062910,Other statuettes,Kg,30815.310012,20109.93674,0.02011
+83062990,Other ornaments,Kg,393.12,258.16953,0.000258
+83099000,"Others - Stoppers, caps and lids (excl cr o n corks),a of base metal.",PCS,140000.0,39.21125,3.9e-05
+84071000,Aircraft spark-ignition piston engines   .,PCS,1.0,4492.544,0.004493
+84112100,"Turbo-propellers, of a power =<1100kw   .",PCS,1.0,1528.2,0.001528
+84195000,Heat exchange units   .,PCS,1.0,3042.666,0.003043
+84295900,"Self-propelled bulldozers, excavators,  nes .",PCS,8.0,24385.95,0.024386
+84462100,"Power looms for weaving fabrics, =<30cm wi  e, shuttle type",PCS,1.0,38.225,3.8e-05
+84678900,"Tools for working in the hand, with non-el  ctric motor, nes.",PCS,38.0,61.514,6.2e-05
+84811000,Pressure-reducing valves  . .,PCS,1.0,5304.3085,0.005304
+85045000,"Other Inductors, nes   .",PCS,1.0,2.5,3e-06
+85114000,Starters motors and dual purposes starter  generators,PCS,3.0,15769.9185,0.01577
+85163200,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,2.0,5.33085,5e-06
+85166030,"Water heating utensils such as kettle, jug",PCS,7884.0,3033.76312,0.003034
+85167100,Electro-thermic coffee or tea makers  . .,PCS,3.0,873.52538,0.000874
+85167990,Other electro thermic appliances,PCS,56400.0,21059.98025,0.02106
+85176220,Networking switch,PCS,6.0,114.62584,0.000115
+85183000,"Headphones, earphones whether or not combi  ed with a microphone & setmore louds.",PCS,2.0,4.25507,4e-06
+85211000,"Video recording or reproducing apparatus,   ith or without video tuner,magnetic t",PCS,2.0,49.59239,5e-05
+85234100,Optical media Unrecorded  .,PCS,4.0,3056.0,0.003056
+85351000,"Fuses, >1000 V   .",PCS,42.0,814.16906,0.000814
+85354000,"Lightning arresters, voltage limiters and   urge suppressors, >1000 V",PCS,42.0,291.77647,0.000292
+85366900,"Plugs and sockets, =<1000 V   .",PCS,13.0,2.31409,2e-06
+85389000,"Parts of apparatus of 8535 to 8537, nes   .",PCS,3.0,1.21848,1e-06
+85441100,Winding wire of copper,MTR,9632.0,226.33846,0.000226
+85441900,Winding wire (excl of copper),MTR,1.0,182.08216,0.000182
+85446000,"Electric conductors, nes, for a voltage >1  00 V.",MTR,3800.0,155.0752,0.000155
+87081000,Bumpers and parts thereof   .,PCS,1.0,1.7519,2e-06
+87089900,Other parts & accessories of motor vehicle   of 8701 to 8705 nes.,PCS,2.0,3.048,3e-06
+87150010,Stroller,PCS,1.0,10.0,1e-05
+88073010,"Other parts of airplanes, helicopters or unmanned",PCS,42.0,30401.06329,0.030401
+90013010,Intraocular contact lenses   .,PCS,41340.0,18367.3467,0.018367
+90041000,Sunglasses   .,PCS,14.0,14.54845,1.5e-05
+90049000,"Spectacles, goggles and the like (excl su n lasses)",PCS,13.0,17.4,1.7e-05
+90149000,Parts and accessories of instruments and a  paratus for navigation,PCS,1.0,4587.34,0.004587
+90211000,Orthopaedic or fracture appliances   .,PCS,30.0,894.114,0.000894
+90278910,"Analyzers (Hematology, blood chemistry, clinical chemistry, immuno-chemistry)",PCS,35.0,5640.2225,0.00564
+90278990,"Other Analyzers(exl.Hematology, blood chemistry,clinical chemistry, immuno-chemistry)",PCS,1.0,4587.0,0.004587
+91011100,"Electrically operated wrist-watches, mecha  ical display only, case of precious m",PCS,1.0,13.0,1.3e-05
+91021100,"Electrically operated wrist-watches, mecha  ical display only (excl of precious m",PCS,2.0,2.3052,2e-06
+92021000,"String musical instruments played with a b  w (eg Guitars, violins, harps)",PCS,240.0,36.931,3.7e-05
+92029000,"String musical instruments, nes   .",PCS,2.0,10.66625,1.1e-05
+92059000,Other wind musical instruments (excl brass wind),PCS,10.0,124.13904,0.000124
+92060000,"Percussion musical instruments (eg drums,  xylophones, cymbals, etc).",PCS,469252.0,185691.09778,0.185691
+92079000,"Musical instruments, nes, with electrically  produced or amplified sound.",PCS,230.0,69.0,6.9e-05
+92099200,Parts and accessories of Musical Instrument of 9202,PCS,1.0,5.001,5e-06
+92099900,"Parts and accessories of musical instrumen  s, nes",PCS,100.0,7.056,7e-06
+93070000,"Swords, cutlasses, bayonets, lances and si  ilar arms and parts thereof",PCS,499.0,1983.3087,0.001983
+94015200,"Seats of cane, osier, bamboo or similar materials Of bamboo",PCS,1772.0,684.25378,0.000684
+94036000,"Wooden furniture, nes   .",PCS,152.0,2303.0464,0.002303
+94038900,"Furniture of other materials, (excel bamboo & rattan)",PCS,3865.0,1700.7825,0.001701
+94041000,Mattress supports   .,PCS,1.0,0.035,0.0
+94043000,Sleeping bags  . .,PCS,1.0,1.0,1e-06
+94049000,"Articles of bedding, stuffed, etc (excl m a tresses and sleeping bags)",PCS,1919.0,22291.45003,0.022291
+94052900,"Other Electric table, desk, bedside or floor-standing luminaires",PCS,6.0,5.3662,5e-06
+94054200,"Other electric luminaires, designed for use solely with (LED) light sources",PCS,190952.0,15649.232,0.015649
+94055000,None-electrical luminaires and lighting fittings,PCS,60.0,16.7755,1.7e-05
+94056100,"Illuminated signs, illuminated name-plates Designed for use solely with (LED) light",PCS,1.0,1.67607,2e-06
+95030000,"Tricycles, scooters, pedal cars and simila   wheeled toys; dolls' carriages; doll",PCS,248.0,102.27805,0.000102
+95049000,"Other rticles for funfair, table or parlou   games, nes",PCS,6.0,1.5088,2e-06
+95051010,Articles for Christmas festivities of felt (Jamoth),Kg,8505.0,20456.473,0.020456
+95051090,Articles for christmas festivities of other (excel felt),Kg,20210.677865,134998.38911,0.134998
+95059000,"Festive, carnival or other entertainment a  ticles, nes",Kg,1733.61,572.60832,0.000573
+95069900,"Other articles and equipment for sport, ne   & article of swimming pools&padding",PCS,1.0,5.33295,5e-06
+95072000,Fish-hooks,Kg,16.0,708.50892,0.000709
+96031000,"Brooms and brushes, of twigs or other vege  able materials bound together",PCS,418156.0,14661.03843,0.014661
+96062200,"Buttons of base metal, not covered with te  tile material",Kg,3.0,514.63044,0.000515
+96062900,"Buttons, nes",Kg,70.306,1795.39295,0.001795
+96081000,Ball-point pens   .,PCS,1.0,5.0,5e-06
+96089900,"Duplicating stylos; pen/pencil holders; pa  ts of pens, nes.",PCS,29.0,11.58164,1.2e-05
+96091000,"Pencils and crayons, with leads encased in a sheath",PCS,300.0,13.7592,1.4e-05
+96110000,"Date, sealing or numbering stamps, etc, fo   use in the hand",PCS,2.0,1.6237,2e-06
+96162000,"Powder-puffs and pads for the application   f cosmetics, or toilet preparation",Kg,920.0,152.82,0.000153
+96170010,Vaccum Flask complete,PCS,195.0,60.1419,6e-05
+96170020,Vaccum Vessels complete,PCS,712.0,618.78,0.000619
+96190010,Sanitary towel (Pad),PCS,9585518.0,31138.69241,0.031139
+96190020,Napkins (Diapers),Kg,171278.271351,41156.65341,0.041157
+96190030,Napkins liners,PCS,109600.0,429.632,0.00043
+97012100,"Paintings, drawings and pastels of an age exceeding 100 years",PCS,465.0,2382.95549,0.002383
+97019100,"Other Paintings, drawings and pastels (excel >=100 years)",PCS,117191.0,25522.11769,0.025522
+97019900,Other than hand-painted or decorated manufactured articles (excel >=100 years),PCS,40650.0,2914.1842,0.002914
+97030000,"Original sculptures and statuary, in any m  terial",PCS,8428.0,15656.67062,0.015657
+97031000,"Original sculptures and statuary, in any material Of an age exceeding 100 years",PCS,10.0,7.603,8e-06
+97039000,Other original sculptures and statuary in any materials excel >=100 years),PCS,112.0,5207.10068,0.005207
