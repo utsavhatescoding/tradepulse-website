@@ -1,0 +1,191 @@
+{
+  "release": "Bhadra FY 2083/84",
+  "generated": "2026-09-28",
+  "files": [
+    {
+      "path": "DEPLOY_BHADRA_2083_84.txt",
+      "bytes": 773,
+      "sha256": "e01c256c5d51c72f2114f7688e1d3dc17d419ea74006a77ffe077d2900913aad"
+    },
+    {
+      "path": "about.html",
+      "bytes": 14997,
+      "sha256": "5f8b2eefb8025a7bc32c688a3fc31c39825f19139adaa2a35b0519b5017d7240"
+    },
+    {
+      "path": "bhadra-2083-84-trade-report.html",
+      "bytes": 13389,
+      "sha256": "1b92ba59493aefad8698aeddc7c565ccc5198f2a55670ae7e5da0d2977e90538"
+    },
+    {
+      "path": "data/README-bhadra-fy2083-84.txt",
+      "bytes": 712,
+      "sha256": "2b2c70dbf4342b987389b3bb762f6f2d66923471d2f3739aed38d5bec3213f0d"
+    },
+    {
+      "path": "data/catalog.json",
+      "bytes": 4907,
+      "sha256": "da202a30daf229ca39e16eb18c2fbc03c096e2f86b068800293f6d0f503cea56"
+    },
+    {
+      "path": "data/nepal-export-product-partners-bhadra-fy2083-84.csv",
+      "bytes": 213615,
+      "sha256": "53998fa057b0605c53f00dee6d295b6f5b53952789687b02c1abb9a2a353f2d9"
+    },
+    {
+      "path": "data/nepal-export-product-partners-bhadra-fy2083-84.xlsx",
+      "bytes": 106317,
+      "sha256": "7d88c7e518eb4ce0c13ee2b0948d3d9428e3412794a7e2f7d06cd1c19b57b487"
+    },
+    {
+      "path": "data/nepal-export-products-bhadra-fy2083-84.csv",
+      "bytes": 57535,
+      "sha256": "e1f0448852da79a56677059dbc11399eef7721110890a0511cbda6942c314251"
+    },
+    {
+      "path": "data/nepal-export-products-bhadra-fy2083-84.xlsx",
+      "bytes": 43241,
+      "sha256": "103030bb6e1bee984a624c1f13110397676de8c192155e03f5dd9abcd127d9d9"
+    },
+    {
+      "path": "data/nepal-import-product-partners-bhadra-fy2083-84.csv",
+      "bytes": 1708330,
+      "sha256": "e78e75036cb93a0448bf1c13e8a7a73ffa49b594dab2f36edc2dcb5e49adfb60"
+    },
+    {
+      "path": "data/nepal-import-product-partners-bhadra-fy2083-84.xlsx",
+      "bytes": 862580,
+      "sha256": "935b7202f782405b1654c166ca7e2fbcbcb8fd75751a95964674930debd1cf60"
+    },
+    {
+      "path": "data/nepal-import-products-bhadra-fy2083-84.csv",
+      "bytes": 466269,
+      "sha256": "feb9197351a7482dcea3ab193f5ec1215d1557444f774517d97d0125c487e064"
+    },
+    {
+      "path": "data/nepal-import-products-bhadra-fy2083-84.xlsx",
+      "bytes": 313229,
+      "sha256": "e187f0825428d32824f584b80cce13c617108edeae48b25a28136f663de15fae"
+    },
+    {
+      "path": "data/nepal-trade-by-country-bhadra-fy2083-84.csv",
+      "bytes": 9661,
+      "sha256": "5f6b82de7d86af4ad0a9b5861457d738da4d451a7bfc2a1a4f1dc907406d61c7"
+    },
+    {
+      "path": "data/nepal-trade-by-country-bhadra-fy2083-84.xlsx",
+      "bytes": 13183,
+      "sha256": "fbf90dd590e355422f0e2d9bfbd39ad15ee9b4d5709716d62fe57cdd3a4a7ef4"
+    },
+    {
+      "path": "data/nepal-trade-by-customs-office-bhadra-fy2083-84.csv",
+      "bytes": 1998,
+      "sha256": "c77e6c88d4cd4d522ccf391d206a2732df6fba60d32810364ff904a35a26530e"
+    },
+    {
+      "path": "data/nepal-trade-by-customs-office-bhadra-fy2083-84.xlsx",
+      "bytes": 6386,
+      "sha256": "a8b949407de4f4abb9e31c2f8ae74d0d826177fc9963ae2a770c34bf17b016a6"
+    },
+    {
+      "path": "data/nepal-trade-by-hs-chapter-bhadra-fy2083-84.csv",
+      "bytes": 14285,
+      "sha256": "bf2ba296351859c120dae393be33cc73cee36be9fa84ba504d260068745a7794"
+    },
+    {
+      "path": "data/nepal-trade-by-hs-chapter-bhadra-fy2083-84.xlsx",
+      "bytes": 14969,
+      "sha256": "eb0a2b7f14645e6900eab76aee630f2cd37a15f5e5f700f61aa877eff75d2245"
+    },
+    {
+      "path": "data/nepal-trade-data-bhadra-fy2083-84-all-formats.zip",
+      "bytes": 2029248,
+      "sha256": "1d3e62c67440e5419f403c081ec9af9c63ffbd9f9c843d2d6ef919bb94a79beb"
+    },
+    {
+      "path": "data/nepal-trade-summary-bhadra-fy2083-84.csv",
+      "bytes": 567,
+      "sha256": "8b8bb00c0da1fc54b5c9e96fc164941c01d11dff10fbe902b25b6e522629c278"
+    },
+    {
+      "path": "data/nepal-trade-summary-bhadra-fy2083-84.xlsx",
+      "bytes": 4975,
+      "sha256": "bbc6586b3456fe6e9d374ddc7660ae6f7fb947c0ec8d82bbc4fd62737d98b9cf"
+    },
+    {
+      "path": "data/releases.json",
+      "bytes": 368,
+      "sha256": "0c85f3678a3397cb8c24c69e877ae91e80c93ada064e02888054c42df2a8ebfd"
+    },
+    {
+      "path": "exports.html",
+      "bytes": 8259,
+      "sha256": "b11704184e4edee4efd7cfbb2e80880a8a0a1ea149694551e57e8c4bf7e2ee35"
+    },
+    {
+      "path": "imports.html",
+      "bytes": 8241,
+      "sha256": "e19a44951ac8b4ece8db97a0c98a8744628cb5e97e3b026c8d9a679478e37a54"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14097,
+      "sha256": "aeafe3d6c637e21901d74a8f4f604955e7072046c6587c90a19a78f1588bb0a8"
+    },
+    {
+      "path": "latest-release.json",
+      "bytes": 1008,
+      "sha256": "2f874f3aa8051c410ccd65a664af2adff05b9a214321d45dada5134fcd3c847a"
+    },
+    {
+      "path": "llms.txt",
+      "bytes": 1856,
+      "sha256": "85bb9e211670ad9c2277c1e93fce3a26f3af19128b346a08b0f010ea6c161159"
+    },
+    {
+      "path": "nepal-export-data.html",
+      "bytes": 13241,
+      "sha256": "e672204b6b43895a09a233f5dcd7f3a38f30c68593c392fcc41fd4081535f03c"
+    },
+    {
+      "path": "nepal-import-data.html",
+      "bytes": 13449,
+      "sha256": "392d78c30cb9d272635b2e87ddbc58503f538cf4480251018ff62f33adca8f88"
+    },
+    {
+      "path": "nepal-trade-data-2083-84.html",
+      "bytes": 9585,
+      "sha256": "1955692ea10238efa755b2fb48e4ac19c6a1d6338993d7882c07bc248f7fa198"
+    },
+    {
+      "path": "nepal-trade-data-download.html",
+      "bytes": 28146,
+      "sha256": "59de3d845b3c45ffcc3b0c430099a5f2d54789decf426a12806ac1f10476366a"
+    },
+    {
+      "path": "nepal-trade-data.html",
+      "bytes": 8980,
+      "sha256": "0963e112a8f3a72a7c96fc2abaa651fd31b2142f3fe27489ffb91dc270221fc2"
+    },
+    {
+      "path": "products.html",
+      "bytes": 9182,
+      "sha256": "e38ea9696d78c999cb9166f6d9756e3dc403763ddbfc0f65c9e2c381c35e4473"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 1523,
+      "sha256": "f27c541d7cacf4906085b1115ed51a3321cf8afaf6ed7ef961f8cac7fc5596b3"
+    },
+    {
+      "path": "status.html",
+      "bytes": 8398,
+      "sha256": "3b4b28b7fff0b1e0b5f6d35bd4110b92f14ff4b800a2aa7941cefa74079a4409"
+    },
+    {
+      "path": "trade-deficit.html",
+      "bytes": 8498,
+      "sha256": "363be759b6073cfd846716e5b06bbc10d96796161d6294d9fd20afc0ea2100b8"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+TRADEPULSE NEPAL — BHADRA FY 2083/84 PRODUCTION PATCH
+
+1. Copy all files and folders from this patch into the tradepulse-website repository root.
+2. Replace matching files.
+3. DO NOT delete existing Shrawan data files or shrawan-2083-84-trade-report.html.
+4. Commit and push.
+5. Verify:
+   /bhadra-2083-84-trade-report.html
+   /nepal-trade-data-download.html
+   /data/nepal-trade-summary-bhadra-fy2083-84.csv
+   /sitemap.xml
+   /llms.txt
+6. In Google Search Console, request indexing for the new Bhadra report and resubmit sitemap.xml.
+
+Data rule:
+The official Bhadra workbook is cumulative (Shrawan + Bhadra).
+Official cumulative: imports Rs 401.52B, exports Rs 76.59B, deficit Rs 324.93B.
+Derived Bhadra-only: imports Rs 214.08B, exports Rs 37.88B, deficit Rs 176.19B.
